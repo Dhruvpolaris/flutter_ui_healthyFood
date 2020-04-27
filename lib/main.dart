@@ -122,28 +122,28 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: ListView(
                       children: <Widget>[
                         ListItem(
-                            imgPath: 'assets/plate1.png',
-                            title: 'Salmon Bowl',
+                            imgPath: 'assets/plate6.png',
+                            title: 'Spring Bowl',
                             price: '24.00'),
                         ListItem(
                             imgPath: 'assets/plate2.png',
-                            title: 'Spring Bowl',
+                            title: 'Salmon Bowl',
                             price: '22.00'),
                         ListItem(
-                            imgPath: 'assets/plate6.png',
+                            imgPath: 'assets/plate5.png',
                             title: 'Avacado Bowl',
                             price: '21.99'),
                         ListItem(
-                            imgPath: 'assets/plate5.png',
-                            title: 'Pot Rice',
+                            imgPath: 'assets/plate1.png',
+                            title: 'Salad Bowl',
                             price: '26.99'),
                         ListItem(
-                            imgPath: 'assets/plate5.png',
+                            imgPath: 'assets/plate3.png',
                             title: 'Steak Bowl',
                             price: '39.00'),
                         ListItem(
-                            imgPath: 'assets/plate6.png',
-                            title: 'Salad Bowl',
+                            imgPath: 'assets/plate4.png',
+                            title: 'Pot Rice',
                             price: '19.99'),
                       ],
                     ),
