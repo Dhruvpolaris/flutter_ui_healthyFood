@@ -197,7 +197,7 @@ class _ItemDetailScreenState extends State<ItemDetailScreen> {
                         height: 50.0,
                         child: Center(
                           child: Text(
-                            '\$ 48.00 >>',
+                            '\$ 43.98',
                             style: GoogleFonts.montserrat(
                               textStyle: TextStyle(
                                 color: Colors.white,

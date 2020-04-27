@@ -18,10 +18,10 @@ class InfoCard extends StatefulWidget {
 
 class _InfoCardState extends State<InfoCard> {
   var selectedCard;
-  
+
   @override
   void initState() {
-     selectedCard = 'WEIGHT';
+    selectedCard = 'WEIGHT';
     super.initState();
   }
 
@@ -62,14 +62,17 @@ class _InfoCardState extends State<InfoCard> {
           children: [
             Padding(
               padding: const EdgeInsets.only(top: 8.0, left: 15.0),
-              child: Text(widget.cardTitle,
-                  style: TextStyle(
-                    fontFamily: 'Montserrat',
+              child: Text(
+                widget.cardTitle,
+                style: GoogleFonts.montserrat(textStyle:
+                  TextStyle(
                     fontSize: 12.0,
                     color: widget.cardTitle == selectedCard
                         ? Colors.white
                         : Colors.grey.withOpacity(0.7),
-                  )),
+                  ),
+                ),
+              ),
             ),
             Padding(
               padding: const EdgeInsets.only(left: 15.0, bottom: 8.0),
