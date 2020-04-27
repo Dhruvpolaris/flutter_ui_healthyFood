@@ -4,7 +4,6 @@
 <img width="350" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_healthyFood/blob/master/finalOutput1.jpg">
 &emsp; &emsp; &emsp; 
 <img width="350" height="600" src="https://github.com/Dhruvpolaris/flutter_ui_healthyFood/blob/master/finalOutput2.jpg">
-<img width="350" height="600" src="">
 </p>
 
 ## Components used:
