@@ -8,10 +8,9 @@
 
 ## Components used:
 1. List views.
-2. AnimatedContainer.
+2. Containers.
 3. Stack - Positioned.
-4. Containers.
-5. List View.
+4. Animated Container.
 
 ### Design reference:
 https://dribbble.com/shots/6687016-Foody-Food-by-Subscription
